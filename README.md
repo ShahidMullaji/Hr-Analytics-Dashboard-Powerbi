@@ -32,7 +32,7 @@ To help HR stakeholders identify attrition patterns and key risk segments
 ## 📁 Project Structure
 - `HR_Analytics_Dashboard.pbix` – Power BI file
 - `dataset/` – Source data used for the dashboard
-- `screenshots/` – Dashboard visuals
+- HR analytics dashoard/` – Dashboard visuals
 - `docs/` – Insights summary
 
 ## 🚀 How to Use
